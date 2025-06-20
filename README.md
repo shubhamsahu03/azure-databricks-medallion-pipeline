@@ -15,7 +15,7 @@ The pipeline is built using the **Medallion Architecture**, a layered approach w
 - **Gold Layer**: Analytics-ready **star schema** warehouse using **Delta Live Tables** with **SCD Type 1 & 2**
 
 📌 **Architecture Diagram**:  
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](https://github.com/shubhamsahu03/azure-databricks-medallion-pipeline/blob/main/architecture_design.png)
 
 ---
 
