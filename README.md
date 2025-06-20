@@ -142,14 +142,3 @@ To enhance **code maintainability and reusability**, the project applies key **o
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
