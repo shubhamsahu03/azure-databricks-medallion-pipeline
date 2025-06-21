@@ -1,4 +1,4 @@
-# 📘 Industry-Grade Report: Azure Databricks Data Engineering Pipeline (2025)
+# 📘 Report: Azure Databricks Data Engineering Pipeline (2025)
 
 ## 🚀 Project Overview
 
